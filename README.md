@@ -1,5 +1,5 @@
 # Matplotlib-Charts
-Various charts using plt and sns.
+Various charts using Matplotlib and Seaborn.
 
 Followed the examples at:
 
