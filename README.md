@@ -1,5 +1,5 @@
-# Matplotlib-Charts
-Various charts using Matplotlib and Seaborn.
+# Charts Examples
+Various charts using the Matplotlib and Seaborn libraries.
 
 Followed the examples at:
 
