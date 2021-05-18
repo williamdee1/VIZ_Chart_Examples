@@ -1,4 +1,4 @@
-# Charts Examples
+# Visualizations - Chart Examples
 Various charts using the Matplotlib and Seaborn libraries.
 
 Followed the examples at:
